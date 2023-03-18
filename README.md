@@ -1,7 +1,7 @@
 Pour lancer la compilation :
 
 - Se placer dans le repertoire, à la racine
-- > javac @sources.txt
+- > javac ./projet/Main.java
 
 Pour executer : 
 - java  ./projet/Main.java
